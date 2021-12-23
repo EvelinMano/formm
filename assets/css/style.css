@@ -1,6 +1,7 @@
 body{
 	font-family: 'Shadows Into Light', cursive;
 	/*font-weight:80px;*/
+	margin:20px;
 }
 
 hr{
@@ -18,9 +19,6 @@ h6{
 	color:red;
 }
 
-button{
-	border-radius:50%;
-}
 
 /* latin */
 @font-face {
