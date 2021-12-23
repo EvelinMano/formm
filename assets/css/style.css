@@ -1,6 +1,5 @@
 body{
 	font-family: 'Shadows Into Light', cursive;
-	/*font-weight:80px;*/
 	margin:20px;
 }
 
@@ -12,7 +11,7 @@ hr{
 .box{
 	border:1px solid gray;
 	width:100%;
-	height:150px;
+	/*height:150px;*/
 }
 
 h6{
